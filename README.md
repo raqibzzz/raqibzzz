@@ -1,9 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raqib Muktadir ======================================================================================================================================  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raqib Muktadir 
+======================================================================================================================================
 
 Computer Science Student 
-------------------------  
+------------------------
 
-I've been learning to code for the last 5 years, I started with Java. As my interest for programming progressed, I realized that the fulfilment of making things that work just by typing up lines of code was enough for me to realize that I wanted to pursue Computer Science. Once I started university, I got my hands on Python and C in addition to Java.  * 🌍  I'm based in St. John's, NL, Canada * 🖥️  See my portfolio at [Raqib's Portfolio](http://https://raqib.webflow.io) * ✉️  You can contact me at [raqibmuktadir2@gmail.com](mailto:raqibmuktadir2@gmail.com) * 🧠  I'm learning JavaScript, CSS, Node.js, Unity Game Engine
+I've been learning to code for the last 5 years, I started with Java. As my interest for programming progressed, I realized that the fulfilment of making things that work just by typing up lines of code was enough for me to realize that I wanted to pursue Computer Science. Once I started university, I got my hands on Python and C in addition to Java.
+* 🌍  I'm based in St. John's, NL, Canada 
+* 🖥️  See my portfolio at [Raqib's Portfolio](http://raqib.webflow.io) 
+* ✉️  You can contact me at [raqibmuktadir2@gmail.com](mailto:raqibmuktadir2@gmail.com)
+* 🧠  I'm learning JavaScript, CSS, Node.js, Unity Game Engine
 
 ### Skills  
 
