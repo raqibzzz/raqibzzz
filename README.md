@@ -5,7 +5,7 @@ Computer Science Student
 ------------------------
 
 I've been learning to code for the last 5 years, I started with Java. As my interest for programming progressed, I realized that the fulfilment of making things that work just by typing up lines of code was enough for me to realize that I wanted to pursue Computer Science. Once I started university, I got my hands on Python and C in addition to Java.
-* 🌍  I'm based in St. John's, NL, Canada 
+* 🌍  I'm based in Montreal, QC, Canada 
 * 🖥️  See my portfolio at [Raqib's Portfolio](https://my-portfolio-q0hieoiyp-raqibs-projects-fbc982d9.vercel.app) 
 * ✉️  You can contact me at [raqibmuktadir2@gmail.com](mailto:raqibmuktadir2@gmail.com)
 * 🧠  I'm learning JavaScript, CSS, Node.js, Unity Game Engine
